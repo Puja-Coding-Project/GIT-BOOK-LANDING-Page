@@ -1,7 +1,7 @@
 :root {
-  --color-bg: #ffffff;        /* White background */
-  --color-offwhite: #f8f7f5;  /* Off-white oval center */
-  --color-text: #333333;      /* Text color */
+  --color-bg: #ffffff;        
+  --color-offwhite: #f8f7f5; 
+  --color-text: #333333;      
 }
 
 * {
@@ -118,3 +118,4 @@ footer {
   border-top: 1px solid #eee;
   color: #777;
 }
+
